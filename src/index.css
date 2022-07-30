@@ -5,8 +5,8 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-image: url("./bgl1 copy.png");
+  /* color: rgba(255, 255, 255, 0.87); */
+  background-image: url("./bg1.png");
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
