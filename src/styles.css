@@ -1,0 +1,31 @@
+@import url('@pmndrs/branding/styles.css');
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100vw;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  font-family: 'Inter var', sans-serif;
+  background-image: './akiraneocity.jpg';
+  color: #499023;
+  user-select: none;
+  cursor: crosshair
+    auto;
+}
+
+span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0);
+}
